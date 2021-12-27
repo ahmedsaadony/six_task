@@ -1,0 +1,362 @@
+
+
+.box1{
+    width: 100%;
+    height: 400px;
+    background-image: url(img/hero01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    position: relative;
+}
+
+.menu{
+
+    padding: 10px 25px 10px 10px;
+
+}
+.menu ul{
+    list-style: none;
+    float: right;
+}
+.menu ul li{
+    float: left;
+    padding: 10px 10px 10px 20px;
+}
+.menu ul li a{
+    color: gray;
+    font-size: 20px;
+    text-decoration: none;
+padding-bottom: 5px;
+
+
+}
+.menu ul li a:hover{
+border-bottom: 5px solid gold;
+}
+.box1 .text{
+    width: 30%;
+    float: right;
+    margin-top: 19px;
+    color: #3C3C3C;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 88px;
+    
+}
+.separetor{
+	background:url(img/spr.png) no-repeat center center;
+	overflow:hidden;
+	padding:20px 0px 30px 0px;
+}
+
+.clear{
+    clear: both;
+}
+.box2{
+    width: 100%;
+    height: 300px;
+    background-image: url(img/yellow-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+}
+.box2 .d1{
+    width: 25%;
+    padding: 40px 40px;
+    text-align: center;
+    color: rgb(129, 126, 126);
+    font-size: 15px;
+    padding-top: 30px;
+    float: left;
+
+
+}
+.fa-gifts{
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.fa-mug-hot
+{font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.fa-ice-cream{
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.box3{
+    margin: auto;
+}
+.box3 h2{
+    font-size: 40px;
+    color: #3C3C3C;
+    text-align: center;
+
+}
+hr{
+    color: grey;
+    width: 50%;
+    margin: auto;
+
+}
+.box3 .timags{
+    width: 90%;
+    margin: 50px auto;
+    height: 400px;
+}
+.box3 .timags .one{
+    width: 33.3%;
+    height: 200px;
+    text-align: center;
+    font-size: 15px;
+    float: left;
+    position: relative;
+}
+
+
+.box3 .timags .one .inner1{
+    width: 50%;
+    height: 200px;
+}
+
+.box3 .timags .one  img{
+    width: 100%;
+    height: 200px;
+}
+.box3 .timags .one .inner2{
+width: 50%;
+
+
+height: 200px;
+text-align: center;
+}
+.box3 .timags .one p{
+    color: gray;
+}
+.box3 .timags .one  h3{
+color: grey;
+}
+.box3 .timags .one .x{
+    background-color:rgb(248, 245, 245) ;
+}
+.box3 .timags .three .inner1{
+    float: left;
+}
+.box3 .timags .three .hov{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: left;
+}
+.box3 .timags .three .hov:hover{
+    z-index: 2;
+    background-color: #FFC800 ;
+
+    opacity: 0.3;
+}
+.box3 .timags .two .hov{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: left;
+}
+.box3 .timags .two .hov:hover{
+    z-index: 2;
+    background-color: #FFC800 ;
+
+    opacity: 0.3;
+}
+
+.box3 .timags .three:hover .inner1{
+    background-color: #FFC800 ;
+    opacity: 0.5 !important;
+
+}
+.box3 .timags .three:hover .inner2{
+    background-color: #FFC800 ;
+}
+.box3 .timags .two:hover .inner1{
+    background-color: #FFC800;
+}
+.box3 .timags .two:hover .inner2{
+    background-color:#FFC800 !important;
+    opacity: 0.5 !important;
+}
+.box3 .timags .two{
+    position: relative;
+}
+
+.box3 .timags .three .inner2{
+    float: right;
+    background-color: rgb(248, 245, 245);
+
+}
+
+.box3 .timags .two .inner1{
+    float: left;
+    background-color: rgb(248, 245, 245);
+
+}
+.box3 .timags .two .inner2{
+    float: right;
+}
+.box4{
+    margin-top: 50px;
+    height: 600px;
+    width: 100%;
+    background-color: #DDDDDD;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.box4 .le{
+    width: 40%;
+    padding: 15px;
+    color: gray;
+    text-align: center;
+    float: left;
+}
+.box4 .le h4{
+    font-size: 30px;
+    font-weight: bold;
+}
+.box4 .le p{
+    font-size: 25px;
+line-height: 1.2;
+}
+.box4 .ri{
+    float: right;
+    width: 50%;
+    height: 400px;
+    margin-top: 140px;
+}
+.ri img{
+    width: 100%;
+    height: 400px;
+}
+.box5{
+    margin-top: 30px;
+}
+.box5 h2{
+color: #3C3C3C;
+font-size: 30px;
+text-align: center;
+}
+.bu{
+    width: 60%;
+    margin:50px auto;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 15px;
+    float: left;
+}
+.bu ul li a{
+   text-decoration: none;
+   font-size: 15px;
+   padding: 15px;
+   color: #3C3C3C;
+}
+.bu ul li a:hover{
+    border: 2px solid gray;
+}
+
+.list{
+    margin-left: 0px;
+    padding-left: 0px;
+    display: none;
+}
+.list .left{
+    color: gray;
+    width: 50%;
+    float: left;
+}
+.list .right{
+    color: gray;
+    width: 50%;
+    float: right;
+}
+.list:target{
+    display: block;
+}
+.contect{
+    width: 100%;
+    height: 600px;
+    background-image: url(img/contact-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+
+
+}
+.fin{
+    width: 40%;
+    height: 400px;
+    float: right;
+}
+.contect .fin h4{
+    color: #3C3C3C;
+    font-size: 30px ;
+     margin-top: 15px;
+     margin-left: 90px;
+}
+.contect .fin .separetor{
+    margin-right: 120px;
+}
+.al, .ar{
+    width: 170px;
+    height: 150px;
+    color: gray;
+}
+.ar{
+    margin-right: 10px;
+}
+.fin h5{
+    font-size: 13px;
+}
+.al{
+    float: left;
+}
+.ar{
+    float: right;
+}
+.contect .fin .form h5{
+    color: #3C3C3C;
+    font-size: 22px;
+    
+}
+input[type="text"],input[type="email"]{
+    border-right: none;
+    border-left: none;
+    border-top: none;
+background-color: transparent;
+margin-right: 19px;
+
+}
+input::placeholder{
+    padding-bottom:20px ;
+    color:#3C3C3C;
+}
+textarea{
+    margin-top: 20px;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+background-color: transparent;
+}
+input[type="button"]{
+    margin-top: 20px;
+    background-color: transparent;
+    color: gray;
+    padding: 11px;
+    margin-left: 150px;
+    font-size:20px;
+}
